@@ -1,0 +1,16 @@
+body {
+	padding: 10px;
+}
+
+.table_button {
+	color: #1a0dab;
+}
+
+.table_button:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.customerForm label.user_input {
+	text-align: left;
+}
